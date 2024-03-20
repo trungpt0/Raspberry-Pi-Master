@@ -3,7 +3,7 @@ from openai import OpenAI
 
 # Initializing the OpenAI client with API keys
 client = OpenAI(
-    api_key = "sk-WWmXKROAtGNwSeHVT3bkFJijBJvaQpADQ4F86"
+    api_key = ""
 )
 
 # List to store messages exchanged between user and assistant
